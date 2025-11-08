@@ -170,7 +170,7 @@ export default function BatteryShowcaseFullScreen() {
             </span>
           </div>
           <div className="text-[11px] text-slate-200/70 flex gap-4">
-            <a href="/solar" className="hover:text-white">
+            <a href="/battery-solar" className="hover:text-white">
               Dashboard
             </a>
             <a href="/battery-showcase" className="text-white font-medium">
